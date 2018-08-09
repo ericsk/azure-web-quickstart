@@ -1,2 +1,2 @@
 # azure-web-quickstart
-Web hosting on Azure Quick Start templates.
+Websites hosting on Azure quick start template
